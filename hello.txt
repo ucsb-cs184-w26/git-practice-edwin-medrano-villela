@@ -7,3 +7,6 @@ Add feature-b (WIP)
 
 new code that makes feature-b work! 
 >>>>>>> feature-b-1
+
+
+Add feature-c
