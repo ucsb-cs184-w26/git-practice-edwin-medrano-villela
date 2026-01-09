@@ -1,12 +1,10 @@
 Hello from the main branch
 
-<<<<<<< HEAD
 Add feature-a
-=======
 Add feature-b (WIP)
 
 new code that makes feature-b work! 
->>>>>>> feature-b-1
-
 
 Add feature-c
+
+Add feature-c (hold on, I'm still working on it...)
